@@ -1,0 +1,10 @@
+{
+  "capacity": 12,
+  "power": 4,
+  "initial": 4,
+  "terminal": 4,
+  "charge_percent": 94,
+  "discharge_percent": 94,
+  "demand_cent_per_kw": 85,
+  "cycle_cent_per_kwh": 2
+}
